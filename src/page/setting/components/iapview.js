@@ -1,11 +1,4 @@
-/*
- * @Descripttion: 
- * @version: 
- * @Author: WGQ
- * @Date: 2020-06-08 21:45:23
- * @LastEditors: WGQ
- * @LastEditTime: 2020-06-08 22:49:48
- */ 
+
 import React, { Component, Fragment } from 'react';
 import { Button } from 'antd';
 const { ipcRenderer } = window.require('electron')

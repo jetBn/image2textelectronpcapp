@@ -1,11 +1,4 @@
-/*
- * @Descripttion: 
- * @version: 
- * @Author: WGQ
- * @Date: 2020-06-02 14:48:18
- * @LastEditors: WGQ
- * @LastEditTime: 2020-06-05 18:03:43
- */ 
+
 import React, { Component } from 'react';
 import './style.scss'
 import { message } from 'antd';

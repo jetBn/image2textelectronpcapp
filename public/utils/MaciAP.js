@@ -1,11 +1,3 @@
-/*
- * @Descripttion: 
- * @version: 
- * @Author: WGQ
- * @Date: 2020-06-08 22:13:58
- * @LastEditors: WGQ
- * @LastEditTime: 2020-06-09 10:47:52
- */
 
 
 const fs = require('fs');

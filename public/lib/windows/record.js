@@ -1,11 +1,3 @@
-/*
- * @Descripttion: 
- * @version: 
- * @Author: WGQ
- * @Date: 2020-06-08 14:36:41
- * @LastEditors: WGQ
- * @LastEditTime: 2020-06-09 15:42:52
- */
 
 const {
     BrowserWindow,

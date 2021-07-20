@@ -1,11 +1,3 @@
-/*
- * @Descripttion: 
- * @version: 
- * @Author: WGQ
- * @Date: 2020-06-02 11:39:43
- * @LastEditors: WGQ
- * @LastEditTime: 2020-06-08 22:11:18
- */ 
 
 const { inAppPurchase } = require('electron').remote
 const PRODUCT_IDS = ['vip1_1month', 'vip1_3month', 'vip1_6month', 'vip1_12month']

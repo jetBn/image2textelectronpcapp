@@ -1,11 +1,3 @@
-/*
- * @Descripttion: 
- * @version: 
- * @Author: WGQ
- * @Date: 2020-06-08 15:00:14
- * @LastEditors: WGQ
- * @LastEditTime: 2020-06-09 15:42:59
- */
 
 
 const {

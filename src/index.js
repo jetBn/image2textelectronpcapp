@@ -1,11 +1,4 @@
-/*
- * @Descripttion: 
- * @version: 
- * @Author: WGQ
- * @Date: 2020-05-26 15:02:05
- * @LastEditors: WGQ
- * @LastEditTime: 2020-06-05 22:55:13
- */ 
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import * as serviceWorker from './serviceWorker';

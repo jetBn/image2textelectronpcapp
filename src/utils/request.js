@@ -1,11 +1,4 @@
-/*
- * @Descripttion: 
- * @version: 
- * @Author: WGQ
- * @Date: 2020-05-26 15:02:05
- * @LastEditors: WGQ
- * @LastEditTime: 2020-06-09 16:23:42
- */ 
+
 import axios from 'axios'
 import Qs from 'qs'
 

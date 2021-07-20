@@ -1,11 +1,4 @@
-/*
- * @Descripttion: 
- * @version: 
- * @Author: WGQ
- * @Date: 2020-05-26 15:02:05
- * @LastEditors: WGQ
- * @LastEditTime: 2020-06-08 17:27:26
- */ 
+
 import request from '@/utils/request'
 
 export const authLogin = (params) => {
