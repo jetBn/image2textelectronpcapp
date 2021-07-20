@@ -1,0 +1,28 @@
+.tab-box{
+    background: #31333D;
+    ul {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        font-family:PingFangSC-Medium,PingFang SC;
+        .tab-item{
+            width:80px;
+            height:32px;
+            background:#31333D;
+            border-radius:4px 4px 0px 0px;
+            color: #959595;
+            margin-left: 24px;
+            text-align: center;
+            line-height: 32px;
+            cursor: pointer;
+            &.active{
+                background:#292B35;
+                color: #fff;
+            }
+        }
+    }
+}
